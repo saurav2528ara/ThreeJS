@@ -1,0 +1,16 @@
+# Client
+/client/node_modules/
+/client/public/
+/client/src/assets/
+client/.env
+
+# Server
+/server/node_modules/
+server/.env
+
+# General
+*.log
+.env
+dist/
+build/
+.vite/
